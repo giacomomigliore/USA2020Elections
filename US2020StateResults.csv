@@ -1,4 +1,4 @@
-﻿leader_party_id,state,state_id,winner
+﻿leader_party_id,state,GEOID,winner
 democrat,alabama,AL,republican
 republican,alaska,AK,republican
 democrat,arizona,AZ,democrat
