@@ -1,0 +1,207 @@
+﻿county_name,county_fips,state_name,state_code,winner_202,margin_2020,margin_trump_2016,margin_obama_2012,margin_obama_2008
+Woodruff,05147,Arkansas,AR,Trump,27.75,8.91,4.21,7.46
+Conejos,08021,Colorado,CO,Trump,7.55,3.56,9.22,12.93
+Huerfano,08055,Colorado,CO,Trump,2.88,6.61,8.27,11.23
+Las Animas,08071,Colorado,CO,Trump,9.89,15.6,2.65,7.04
+Pueblo,08101,Colorado,CO,Biden,1.72,0.5,13.99,14.97
+Windham,09015,Connecticut,CT,Trump,4.27,7.78,13.28,14.68
+Kent,10001,Delaware,DE,Biden,4.07,4.87,4.94,9.81
+Jefferson,12065,Florida,FL,Trump,6.87,5.06,1.75,3.66
+Monroe,12087,Florida,FL,Trump,7.92,6.82,0.44,4.9
+Pinellas,12103,Florida,FL,Biden,0.22,1.11,5.65,8.25
+Baker,13007,Georgia,GA,Trump,15.76,8.68,0.57,1.07
+Dooly,13093,Georgia,GA,Trump,6.04,2.05,6.98,3.53
+Peach,13225,Georgia,GA,Trump,4.64,2.91,7.48,6.75
+Quitman,13239,Georgia,GA,Trump,9.67,10.92,9.04,7.9
+Twiggs,13289,Georgia,GA,Trump,7.34,1.58,8.64,6.97
+Alexander,17003,Illinois,IL,Trump,14.17,8.3,13.65,12.62
+Carroll,17015,Illinois,IL,Trump,29.49,26.69,1.49,4.81
+Fulton,17057,Illinois,IL,Trump,27.51,14.93,11.04,21.33
+Henderson,17071,Illinois,IL,Trump,33,28.43,12.25,17.67
+Henry,17073,Illinois,IL,Trump,21.48,20.99,3.08,7.74
+Jo Daviess,17085,Illinois,IL,Trump,16.54,14.64,1.16,10.49
+Knox,17095,Illinois,IL,Trump,6.15,2.91,17.37,19.89
+Mercer,17131,Illinois,IL,Trump,24.18,20.36,7.39,11.91
+Putnam,17155,Illinois,IL,Trump,20,19.92,1.82,15.64
+Warren,17187,Illinois,IL,Trump,20.01,16.5,5.47,8.08
+Whiteside,17195,Illinois,IL,Trump,8.35,6.18,17.02,17.56
+Delaware,18035,Indiana,IN,Trump,13.18,13.43,3.12,14.98
+Perry,18123,Indiana,IN,Trump,24.56,18.55,11.59,22.84
+Porter,18127,Indiana,IN,Trump,6.08,6.59,3.9,7.2
+Vigo,18167,Indiana,IN,Trump,14.73,14.97,0.86,15.83
+Allamakee,19005,Iowa,IA,Trump,29.09,24.15,4.17,14.25
+Boone,19015,Iowa,IA,Trump,15.59,13.69,6.64,7.63
+Bremer,19017,Iowa,IA,Trump,16.06,13.68,2.68,9.31
+Buchanan,19019,Iowa,IA,Trump,20.89,15.02,13.87,18.48
+Cedar,19031,Iowa,IA,Trump,17.04,17.78,4.59,9.64
+Cerro Gordo,19033,Iowa,IA,Trump,6.31,7.66,13.38,20.83
+Chickasaw,19037,Iowa,IA,Trump,31.29,22.94,11.07,20.74
+Clarke,19039,Iowa,IA,Trump,35.93,28.02,1.47,2.25
+Clayton,19043,Iowa,IA,Trump,28.83,22.78,7.03,17.17
+Clinton,19045,Iowa,IA,Trump,10.33,5.12,22.84,23.03
+Des Moines,19057,Iowa,IA,Trump,8.51,6.89,18.41,23.04
+Dubuque,19061,Iowa,IA,Trump,2.89,1.23,14.71,20.77
+Fayette,19065,Iowa,IA,Trump,22.68,19.36,11.96,16.6
+Floyd,19067,Iowa,IA,Trump,19.42,14.84,14.63,21.88
+Howard,19089,Iowa,IA,Trump,27.33,20.49,20.95,25.78
+Jackson,19097,Iowa,IA,Trump,26.14,19.27,16.89,24.39
+Jasper,19099,Iowa,IA,Trump,21.54,18.13,7.07,7.5
+Jefferson,19101,Iowa,IA,Trump,1.38,0.47,15.97,20.23
+Jones,19105,Iowa,IA,Trump,21.47,19.08,7.78,10.4
+Lee,19111,Iowa,IA,Trump,19.31,16.02,15.49,16.01
+Louisa,19115,Iowa,IA,Trump,33.27,28.37,0.64,4.25
+Marshall,19127,Iowa,IA,Trump,7.69,8.31,9.36,9.35
+Mitchell,19131,Iowa,IA,Trump,27.89,24.04,3.37,12.31
+Muscatine,19139,Iowa,IA,Trump,7.02,6.26,15.88,15.64
+Poweshiek,19157,Iowa,IA,Trump,13.32,6.53,9.35,11.75
+Tama,19171,Iowa,IA,Trump,19.08,20.28,7.43,12.19
+Union,19175,Iowa,IA,Trump,31.51,27.49,3.86,3.7
+Wapello,19179,Iowa,IA,Trump,23.64,20.6,11.88,13.53
+Webster,19187,Iowa,IA,Trump,24.27,21.52,5.84,8.51
+Winneshiek,19191,Iowa,IA,Trump,5.12,0.79,14.74,22.65
+Worth,19195,Iowa,IA,Trump,25.85,21.68,14.53,22.42
+Elliott,21063,Kentucky,KY,Trump,51.22,44.13,2.5,25.17
+Androscoggin,23001,Maine,ME,Trump,2.81,9.38,12.78,15.22
+Aroostook,23003,Maine,ME,Trump,19,17.19,7.62,9.58
+Franklin,23007,Maine,ME,Trump,4,5.47,18.41,20.29
+Kennebec,23011,Maine,ME,Biden,0.25,3.58,13.46,14.78
+Oxford,23017,Maine,ME,Trump,8.84,12.94,14.73,16.04
+Penobscot,23019,Maine,ME,Trump,8.13,10.91,2.93,5.12
+Somerset,23025,Maine,ME,Trump,23.14,22.67,1.68,5.7
+Washington,23029,Maine,ME,Trump,19.73,18.44,1.6,1.01
+Bay,26017,Michigan,MI,Trump,11.57,12.55,5.56,15.31
+Calhoun,26025,Michigan,MI,Trump,11.08,12.46,1.6,9.36
+Eaton,26045,Michigan,MI,Trump,0.78,4.72,3.13,8.4
+Gogebic,26053,Michigan,MI,Trump,12.46,14.8,8.1,17.27
+Isabella,26073,Michigan,MI,Trump,2.52,3.66,9.28,19.26
+Lake,26085,Michigan,MI,Trump,26.18,22.77,5.01,12.28
+Macomb,26099,Michigan,MI,Trump,8.08,11.53,3.99,8.62
+Manistee,26101,Michigan,MI,Trump,15.11,15.29,5.93,13.26
+Monroe,26115,Michigan,MI,Trump,22.65,21.97,0.98,4.35
+Saginaw,26145,Michigan,MI,Biden,0.29,1.13,11.89,17.34
+Shiawassee,26155,Michigan,MI,Trump,19.87,19.59,3.67,8.59
+Van Buren,26159,Michigan,MI,Trump,12.24,13.92,0.45,8.78
+Beltrami,27007,Minnesota,MN,Trump,3.15,9.72,9.89,10.15
+Blue Earth,27013,Minnesota,MN,Biden,4.44,3.69,9.48,12.95
+Chippewa,27023,Minnesota,MN,Trump,30.62,28.7,1.87,5.87
+Clay,27027,Minnesota,MN,Biden,4.08,1.95,7.92,16.02
+Fillmore,27045,Minnesota,MN,Trump,22.65,21.7,7.34,8.26
+Freeborn,27047,Minnesota,MN,Trump,15.99,17.24,14.11,17.13
+Houston,27055,Minnesota,MN,Trump,12.95,13.87,3.16,10.69
+Itasca,27061,Minnesota,MN,Trump,16.76,16.35,9.83,12.92
+Kittson,27069,Minnesota,MN,Trump,20.46,22.05,6.03,18.54
+Koochiching,27071,Minnesota,MN,Trump,21.27,19.85,9.45,10.1
+Lac qui Parle,27073,Minnesota,MN,Trump,26.81,25.6,0.9,5.92
+Mahnomen,27087,Minnesota,MN,Trump,1.3,2.92,18.56,25.31
+Mower,27099,Minnesota,MN,Trump,5.82,7.82,22.61,23.61
+Nicollet,27103,Minnesota,MN,Biden,3.16,3.04,7.83,10.52
+Norman,27107,Minnesota,MN,Trump,15.98,13.34,10.79,26.94
+Rice,27131,Minnesota,MN,Trump,0.17,3.06,8.27,11.5
+Swift,27151,Minnesota,MN,Trump,29.5,25.57,9.83,13.79
+Traverse,27155,Minnesota,MN,Trump,27.41,23.3,4.44,5.41
+Winona,27169,Minnesota,MN,Biden,0.39,2.9,12.85,19.09
+Chickasaw,28017,Mississippi,MS,Trump,4.48,6.06,4.52,2.13
+Panola,28107,Mississippi,MS,Trump,4.2,0.12,8.62,6.52
+Blaine,30005,Montana,MT,Biden,3.85,2.46,15.32,19.24
+Hill,30041,Montana,MT,Trump,13.59,17.18,3.5,12.21
+Roosevelt,30085,Montana,MT,Trump,2.14,6.49,15.58,26.27
+Thurston,31173,Nebraska,NE,Trump,2.49,5.94,13.91,6.96
+Coos,33007,New Hampshire,NH,Trump,5.92,8.89,17.54,18.19
+Hillsborough,33011,New Hampshire,NH,Biden,7.67,0.2,1.12,3.73
+Sullivan,33019,New Hampshire,NH,Biden,3.62,2.58,13.27,17.93
+Gloucester,34015,New Jersey,NJ,Biden,1.94,0.48,10.77,12.16
+Salem,34033,New Jersey,NJ,Trump,13.31,15,1.31,3.92
+Colfax,35007,New Mexico,NM,Trump,10.97,8.55,2.24,10.73
+Hidalgo,35023,New Mexico,NM,Trump,15.05,6.73,4.96,2.92
+Valencia,35061,New Mexico,NM,Trump,9.6,8.6,2.47,7.72
+Broome,36007,New York,NY,Biden,3.42,2.01,5.31,8.02
+Cayuga,36011,New York,NY,Trump,9.2,11.64,11.4,8.48
+Cortland,36023,New York,NY,Trump,1.94,5.58,9.11,9.96
+Essex,36031,New York,NY,Trump,6.45,1.14,18.77,13.32
+Franklin,36033,New York,NY,Trump,12.6,5.45,26.07,22.23
+Madison,36053,New York,NY,Trump,10.9,14.2,0.89,0.87
+Niagara,36063,New York,NY,Trump,18.79,17.75,0.84,1
+Orange,36071,New York,NY,Trump,10.23,5.5,5.65,4.13
+Oswego,36075,New York,NY,Trump,31.89,21.99,7.93,2.44
+Otsego,36077,New York,NY,Trump,15.82,11.13,2.72,5.91
+Rensselaer,36083,New York,NY,Biden,5.63,1.41,12.19,9.34
+Saratoga,36091,New York,NY,Trump,5.16,3.21,2.44,3.4
+Seneca,36099,New York,NY,Trump,19.31,11.01,9.08,2.6
+Suffolk,36103,New York,NY,Trump,12.33,6.84,3.69,5.99
+Sullivan,36105,New York,NY,Trump,16.9,11.23,9.02,9.46
+Warren,36113,New York,NY,Trump,12.24,8.47,2.32,2.64
+Washington,36115,New York,NY,Trump,25.53,18.4,1.9,0.81
+Bladen,37017,North Carolina,NC,Trump,13.72,9.39,1.97,2.07
+Gates,37073,North Carolina,NC,Trump,13.75,9.07,4.11,5.22
+Granville,37077,North Carolina,NC,Trump,6.59,2.49,4.54,6.58
+Martin,37117,North Carolina,NC,Trump,4.95,0.43,4.65,4.64
+Richmond,37153,North Carolina,NC,Trump,14.81,9.74,2.95,1.5
+Robeson,37155,North Carolina,NC,Trump,18.62,4.27,17.41,13.78
+Benson,38005,North Dakota,ND,Trump,13.87,4.33,17.01,33.53
+Ransom,38073,North Dakota,ND,Trump,19.27,15.77,13.77,15.33
+Sargent,38081,North Dakota,ND,Trump,25.51,19.73,9.77,17.49
+Steele,38091,North Dakota,ND,Trump,23.9,17.72,1.92,20.35
+Ashtabula,39007,Ohio,OH,Trump,23.21,18.8,12.78,13.54
+Erie,39043,Ohio,OH,Trump,11.59,9.48,12.29,13.86
+Montgomery,39113,Ohio,OH,Biden,2.1,0.73,4.62,6.22
+Ottawa,39123,Ohio,OH,Trump,23.15,19.51,4.3,6.24
+Portage,39133,Ohio,OH,Trump,12.45,9.87,5.52,8.99
+Sandusky,39143,Ohio,OH,Trump,27.5,22.58,2.71,4.64
+Stark,39151,Ohio,OH,Trump,18.45,17.17,0.47,5.46
+Trumbull,39155,Ohio,OH,Trump,10.37,6.22,23,22.43
+Wood,39173,Ohio,OH,Trump,7.63,7.99,4.84,7.13
+Columbia,41009,Oregon,OR,Trump,10.29,11.46,5.16,12.02
+Tillamook,41057,Oregon,OR,Trump,1.71,5.58,4.86,9.89
+Erie,42049,Pennsylvania,PA,Biden,1.03,1.56,16.03,19.88
+Luzerne,42079,Pennsylvania,PA,Trump,14.37,19.31,4.81,8.41
+Northampton,42095,Pennsylvania,PA,Biden,0.71,3.78,4.71,12.3
+Kent,44003,Rhode Island,RI,Biden,7.64,0.67,17.74,17.4
+Barnwell,45011,South Carolina,SC,Trump,7.48,5.16,5.33,1.65
+Calhoun,45017,South Carolina,SC,Trump,4.82,2.83,4.31,3.55
+Chester,45023,South Carolina,SC,Trump,10.91,4.83,10.58,8.3
+Colleton,45029,South Carolina,SC,Trump,9.53,8.49,0.19,0.53
+McCormick,45065,South Carolina,SC,Trump,4.76,3.32,3.6,6.08
+Corson,46031,South Dakota,SD,Trump,1.95,4.51,11.08,21.48
+Day,46037,South Dakota,SD,Trump,27.56,23.77,6.16,12.89
+Marshall,46091,South Dakota,SD,Trump,19.7,15.51,8.66,16.48
+Roberts,46109,South Dakota,SD,Trump,13.37,15.53,9.84,19.64
+Ziebach,46137,South Dakota,SD,Biden,8.5,1.96,16.43,27.16
+Hardeman,47069,Tennessee,TN,Trump,15.71,7.92,5.91,6.18
+Jefferson,48245,Texas,TX,Trump,1.58,0.48,1.61,2.25
+Essex,50009,Vermont,VT,Trump,11.19,16.65,13.4,14.48
+Buckingham,51029,Virginia,VA,Trump,13.2,11.28,2.43,0.87
+Caroline,51033,Virginia,VA,Trump,4.17,5.02,8.24,11.97
+Essex,51057,Virginia,VA,Trump,0.6,2.14,7.3,10.35
+Nelson,51125,Virginia,VA,Trump,5.21,5.59,2.72,9.15
+Westmoreland,51193,Virginia,VA,Trump,8.23,7.14,6.95,10.24
+Clallam,53009,Washington,WA,Biden,3.35,2.76,0.38,3.3
+Cowlitz,53015,Washington,WA,Trump,17.34,13.32,4.44,11.15
+Grays Harbor,53027,Washington,WA,Trump,6.37,6.99,14.11,14.56
+Mason,53045,Washington,WA,Trump,3.82,5.81,7.09,8.66
+Pacific,53049,Washington,WA,Trump,1.1,6.74,11.52,14.07
+Adams,55001,Wisconsin,WI,Trump,25.66,21.92,8.73,18.35
+Buffalo,55011,Wisconsin,WI,Trump,25.28,21.82,2.93,14.66
+Columbia,55021,Wisconsin,WI,Trump,1.53,2.14,13.58,15.26
+Crawford,55023,Wisconsin,WI,Trump,7.67,5.4,19.98,27.03
+Door,55029,Wisconsin,WI,Biden,1.45,3.22,6.99,17.33
+Dunn,55033,Wisconsin,WI,Trump,13.88,11.09,4.97,14.95
+Forest,55041,Wisconsin,WI,Trump,30.98,26.58,5.44,15.16
+Grant,55043,Wisconsin,WI,Trump,11.98,9.43,13.77,23.88
+Jackson,55053,Wisconsin,WI,Trump,15.07,11.74,15.01,21.84
+Juneau,55057,Wisconsin,WI,Trump,29.21,26.05,7.03,9
+Kenosha,55059,Wisconsin,WI,Trump,3.14,0.31,12.23,18.06
+Lafayette,55065,Wisconsin,WI,Trump,13.7,8.99,15.37,22.32
+Lincoln,55069,Wisconsin,WI,Trump,22.74,20.6,0.71,12.48
+Marquette,55077,Wisconsin,WI,Trump,27.36,24.09,0.27,5.28
+Pepin,55091,Wisconsin,WI,Trump,26.45,23.08,2.22,12.89
+Price,55099,Wisconsin,WI,Trump,26.17,25,0.04,13.4
+Racine,55101,Wisconsin,WI,Trump,4.06,4.28,3.54,7.41
+Richland,55103,Wisconsin,WI,Trump,10.36,5.5,16.13,20.63
+Sauk,55111,Wisconsin,WI,Biden,1.69,0.35,18.47,23.04
+Sawyer,55113,Wisconsin,WI,Trump,13.26,18.41,0.49,6.23
+Trempealeau,55121,Wisconsin,WI,Trump,16.57,12.64,14.08,26.39
+Vernon,55123,Wisconsin,WI,Trump,4.77,4.43,14.73,22
+Winnebago,55139,Wisconsin,WI,Trump,3.97,7.34,3.73,11.66
+St. Lucie,12111 ,Florida,FL,Trump,1.56,2.4,7.86,12.12
+La Porte,18091 ,Indiana,IN,Trump,7.22,6.33,12.57,22.04
+St. Lawrence,36089 ,New York,NY,Trump,24.79,8.82,16.71,16.33
