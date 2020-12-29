@@ -1,101 +1,101 @@
 ﻿stateFIPS,stateName,seatid,Challenger,Candidate_instead_of_incumbent,encumbentname,encumbentparty,result.i,result.d,result.r,election,result.name,result.winner
 AK,Alabama,AK2,Tommy Tuberville,,Doug Jones,D,,0.412,0.539,Yes,Doug Jones,D
-AL,Alaska,AL2,Al Gross,,Dan Sullivan,R,0.397,,0.601,Yes,Dan Sullivan,D
-CO,Colorado,CO2,John Hickenlooper,,Cory Gardner,R,,0.535,0.442,Yes,Cory Gardner,D
-DE,Delaware,DE2,Lauren Witzke,,Chris Coons,D,,0.594,0.379,Yes,Chris Coons,D
-GA,Georgia,GA1,Raphael Warnock,,Kelly Loeffler,R,,0.329,0.259,Yes,,B
-GA,Georgia,GA2,Jon Ossoff,,David Perdue,R,,0.479,0.497,Yes,,B
-IA,Idaho,IA2,Paulette Jordan,,Jim Risch,R,,0.452,0.518,Yes,Jim Risch,D
-ID,Illinois,ID1,Mark Curran,,Dick Durbin,D,,0.333,0.626,Yes,Dick Durbin,D
-IN,Iowa,IN2,Theresa Greenfield,,Joni Ernst,R,,0.549,0.389,Yes,Joni Ernst,D
-KS,Kansas,KS1,Barbara Bollier,,Pat Roberts,R,,0.418,0.532,Yes,Pat Roberts,D
-KY,Kentucky,KY1,Amy McGrath,,Mitch McConnell,R,,0.382,0.578,Yes,Mitch McConnell,D
-LA,Louisiana,LA1,Adrian Perkins,,Bill Cassidy,R,,0.19,0.593,Yes,Bill Cassidy,D
-MA,Maine,MA1,Sara Gideon,,Susan Collins,R,,0.662,0.33,Yes,Susan Collins,D
-ME,Massachusetts,ME2,Kevin O'Connor,,Ed Markey,D,,0.424,0.51,Yes,Ed Markey,D
-MI,Michigan,MI2,John James,,Gary Peters,D,,0.499,0.482,Yes,Gary Peters,D
-MN,Minnesota,MN2,Jason Lewis,,Tina Smith,D,,0.488,0.435,Yes,Tina Smith,D
-MO,Mississippi,MO2,Mike Espy,,Cindy Hyde-Smith,R,,0.441,0.541,Yes,Cindy Hyde-Smith,D
-MT,Montana,MT2,Steve Bullock,,Steve Daines,R,,0.45,0.55,Yes,Steve Daines,D
-NC,Nebraska,NC2,Chris Janicek,,Ben Sasse,R,,0.469,0.487,Yes,Ben Sasse,D
-NE,New Hampshire,NE1,Corky Messner,,Jeanne Shaheen,D,,0.233,0.597,Yes,Jeanne Shaheen,D
-NH,New Jersey,NH2,Rik Mehta,,Cory Booker,D,,0.567,0.41,Yes,Cory Booker,D
-NJ,New Mexico,NJ1,Ben Ray Luján,Mark Ronchetti,Tom Udall,D,,0.572,0.409,Yes,Tom Udall,D
-NV,North Carolina,NV2,Cal Cunningham,,Thom Tillis,R,,0.517,0.456,Yes,Thom Tillis,D
-OK,Oklahoma,OK1,Abby Broyles,,Jim Inhofe,R,,0.328,0.629,Yes,Jim Inhofe,D
-OR,Oregon,OR2,Jo Rae Perkins,,Jeff Merkley,D,,0.569,0.393,Yes,Jeff Merkley,D
-RI,Rhode Island,RI1,Allen Waters,,Jack Reed,D,,0.666,0.334,Yes,Jack Reed,D
-SC,South Carolina,SC1,Jaime Harrison,,Lindsey Graham,R,,0.442,0.545,Yes,Lindsey Graham,D
-SD,South Dakota,SD2,Dan Ahlers,,Mike Rounds,R,,0.343,0.657,Yes,Mike Rounds,D
-TN,Tennessee,TN1,Marquita Bradshaw,Bill Hagerty,Lamar Alexander,R,,0.352,0.622,Yes,Lamar Alexander,D
-TX,Texas,TX1,MJ Hegar,,John Cornyn,R,,0.439,0.535,Yes,John Cornyn,D
-VT,Virginia,VT1,Daniel Gade,,Mark Warner,D,,0.56,0.44,Yes,Mark Warner,D
-WI,West Virginia,WI2,Paula Jean Swearengin,,Shelley Moore Capito,R,,0.27,0.703,Yes,Shelley Moore Capito,D
-WY,Wyoming,WY1,Merav Ben-David,Cynthia Lummis,Mike Enzi,R,,0.269,0.731,Yes,Mike Enzi,D
-AK,Alabama,AK1,,,,,,,,,Richard Shelby,D
-AL,Alaska,AL1,,,,,,,,,Lisa Murkowski,D
+AK,Alabama,AK1,,,,,,,,,Richard Shelby,R
+AL,Alaska,AL2,Al Gross,,Dan Sullivan,R,0.397,,0.601,Yes,Dan Sullivan,R
+AL,Alaska,AL1,,,,,,,,,Lisa Murkowski,R
 AR,Arizona,AR1,Mark Kelly,,Martha McSally,R,,0.512,0.488,Yes,Kyrsten Sinema,D
 AR,Arizona,AR2,,,,,,,,,Mark Kelly,D
-AZ,Arkansas,AZ1,Ricky Dale Harrington,,Tom Cotton,R,,-,0.665,Yes,John Boozman,D
-AZ,Arkansas,AZ2,,,,,,,,,Tom Cotton,D
+AZ,Arkansas,AZ1,Ricky Dale Harrington,,Tom Cotton,R,,-,0.665,Yes,John Boozman,R
+AZ,Arkansas,AZ2,,,,,,,,,Tom Cotton,R
 CA,California,CA1,,,,,,,,,Dianne Feinstein,D
 CA,California,CA2,,,,,,,,,Kamala Harris,D
+CO,Colorado,CO2,John Hickenlooper,,Cory Gardner,R,,0.535,0.442,Yes,Cory Gardner,R
 CO,Colorado,CO1,,,,,,,,,Michael Bennet,D
 CT,Connecticut,CT1,,,,,,,,,Richard Blumenthal,D
 CT,Connecticut,CT2,,,,,,,,,Chris Murphy,D
+DE,Delaware,DE2,Lauren Witzke,,Chris Coons,D,,0.594,0.379,Yes,Chris Coons,D
 DE,Delaware,DE1,,,,,,,,,Tom Carper,D
-FL,Florida,FL1,,,,,,,,,Marco Rubio,D
-FL,Florida,FL2,,,,,,,,,Rick Scott,D
+FL,Florida,FL1,,,,,,,,,Marco Rubio,R
+FL,Florida,FL2,,,,,,,,,Rick Scott,R
+GA,Georgia,GA1,Raphael Warnock,,Kelly Loeffler,R,,0.329,0.259,Yes,,B
+GA,Georgia,GA2,Jon Ossoff,,David Perdue,R,,0.479,0.497,Yes,,B
 HI,Hawaii,HI1,,,,,,,,,Brian Schatz,D
 HI,Hawaii,HI2,,,,,,,,,Mazie Hirono,D
-IA,Idaho,IA1,,,,,,,,,Mike Crapo,D
+IA,Idaho,IA2,Paulette Jordan,,Jim Risch,R,,0.452,0.518,Yes,Jim Risch,R
+IA,Idaho,IA1,,,,,,,,,Mike Crapo,R
+ID,Illinois,ID1,Mark Curran,,Dick Durbin,D,,0.333,0.626,Yes,Dick Durbin,D
 ID,Illinois,ID2,,,,,,,,,Tammy Duckworth,D
-IL,Indiana,IL1,,,,,,,,,Todd Young,D
-IL,Indiana,IL2,,,,,,,,,Mike Braun,D
-IN,Iowa,IN1,,,,,,,,,Chuck Grassley,D
-KS,Kansas,KS2,,,,,,,,,Jerry Moran,D
-KY,Kentucky,KY2,,,,,,,,,Rand Paul,D
-LA,Louisiana,LA2,,,,,,,,,John Kennedy,D
+IL,Indiana,IL1,,,,,,,,,Todd Young,R
+IL,Indiana,IL2,,,,,,,,,Mike Braun,R
+IN,Iowa,IN2,Theresa Greenfield,,Joni Ernst,R,,0.549,0.389,Yes,Joni Ernst,R
+IN,Iowa,IN1,,,,,,,,,Chuck Grassley,R
+KS,Kansas,KS1,Barbara Bollier,,Pat Roberts,R,,0.418,0.532,Yes,Pat Roberts,R
+KS,Kansas,KS2,,,,,,,,,Jerry Moran,R
+KY,Kentucky,KY1,Amy McGrath,,Mitch McConnell,R,,0.382,0.578,Yes,Mitch McConnell,R
+KY,Kentucky,KY2,,,,,,,,,Rand Paul,R
+LA,Louisiana,LA1,Adrian Perkins,,Bill Cassidy,R,,0.19,0.593,Yes,Bill Cassidy,R
+LA,Louisiana,LA2,,,,,,,,,John Kennedy,R
+MA,Maine,MA1,Sara Gideon,,Susan Collins,R,,0.662,0.33,Yes,Susan Collins,R
 MA,Maine,MA2,,,,,,,,,Angus King,I
 MD,Maryland,MD1,,,,,,,,,Ben Cardin,D
 MD,Maryland,MD2,,,,,,,,,Chris Van Hollen,D
+ME,Massachusetts,ME2,Kevin O'Connor,,Ed Markey,D,,0.424,0.51,Yes,Ed Markey,D
 ME,Massachusetts,ME1,,,,,,,,,Elizabeth Warren,D
+MI,Michigan,MI2,John James,,Gary Peters,D,,0.499,0.482,Yes,Gary Peters,D
 MI,Michigan,MI1,,,,,,,,,Debbie Stabenow,D
+MN,Minnesota,MN2,Jason Lewis,,Tina Smith,D,,0.488,0.435,Yes,Tina Smith,D
 MN,Minnesota,MN1,,,,,,,,,Amy Klobuchar,D
-MO,Mississippi,MO1,,,,,,,,,Roger Wicker,D
-MS,Missouri,MS1,,,,,,,,,Roy Blunt,D
-MS,Missouri,MS2,,,,,,,,,Josh Hawley,D
+MO,Mississippi,MO2,Mike Espy,,Cindy Hyde-Smith,R,,0.441,0.541,Yes,Cindy Hyde-Smith,R
+MO,Mississippi,MO1,,,,,,,,,Roger Wicker,R
+MS,Missouri,MS1,,,,,,,,,Roy Blunt,R
+MS,Missouri,MS2,,,,,,,,,Josh Hawley,R
+MT,Montana,MT2,Steve Bullock,,Steve Daines,R,,0.45,0.55,Yes,Steve Daines,R
 MT,Montana,MT1,,,,,,,,,Jon Tester,D
-NC,Nebraska,NC1,,,,,,,,,Deb Fischer,D
+NC,Nebraska,NC2,Chris Janicek,,Ben Sasse,R,,0.469,0.487,Yes,Ben Sasse,R
+NC,Nebraska,NC1,,,,,,,,,Deb Fischer,R
 ND,Nevada,ND1,,,,,,,,,Catherine Cortez Masto,D
 ND,Nevada,ND2,,,,,,,,,Jacky Rosen,D
+NE,New Hampshire,NE1,Corky Messner,,Jeanne Shaheen,D,,0.233,0.597,Yes,Jeanne Shaheen,D
 NE,New Hampshire,NE2,,,,,,,,,Maggie Hassan,D
+NH,New Jersey,NH2,Rik Mehta,,Cory Booker,D,,0.567,0.41,Yes,Cory Booker,D
 NH,New Jersey,NH1,,,,,,,,,Bob Menendez,D
+NJ,New Mexico,NJ1,Ben Ray Luján,Mark Ronchetti,Tom Udall,D,,0.572,0.409,Yes,Tom Udall,D
 NJ,New Mexico,NJ2,,,,,,,,,Martin Heinrich,D
 NM,New York,NM1,,,,,,,,,Chuck Schumer,D
 NM,New York,NM2,,,,,,,,,Kirsten Gillibrand,D
-NV,North Carolina,NV1,,,,,,,,,Richard Burr,D
-NY,North Dakota,NY1,,,,,,,,,John Hoeven,D
-NY,North Dakota,NY2,,,,,,,,,Kevin Cramer,D
+NV,North Carolina,NV2,Cal Cunningham,,Thom Tillis,R,,0.517,0.456,Yes,Thom Tillis,R
+NV,North Carolina,NV1,,,,,,,,,Richard Burr,R
+NY,North Dakota,NY1,,,,,,,,,John Hoeven,R
+NY,North Dakota,NY2,,,,,,,,,Kevin Cramer,R
 OH,Ohio,OH1,,,,,,,,,Sherrod Brown,D
-OH,Ohio,OH2,,,,,,,,,Rob Portman,D
-OK,Oklahoma,OK2,,,,,,,,,James Lankford,D
+OH,Ohio,OH2,,,,,,,,,Rob Portman,R
+OK,Oklahoma,OK1,Abby Broyles,,Jim Inhofe,R,,0.328,0.629,Yes,Jim Inhofe,R
+OK,Oklahoma,OK2,,,,,,,,,James Lankford,R
+OR,Oregon,OR2,Jo Rae Perkins,,Jeff Merkley,D,,0.569,0.393,Yes,Jeff Merkley,D
 OR,Oregon,OR1,,,,,,,,,Ron Wyden,D
 PA,Pennsylvania,PA1,,,,,,,,,Bob Casey Jr.,D
-PA,Pennsylvania,PA2,,,,,,,,,Pat Toomey,D
+PA,Pennsylvania,PA2,,,,,,,,,Pat Toomey,R
+RI,Rhode Island,RI1,Allen Waters,,Jack Reed,D,,0.666,0.334,Yes,Jack Reed,D
 RI,Rhode Island,RI2,,,,,,,,,Sheldon Whitehouse,D
-SC,South Carolina,SC2,,,,,,,,,Tim Scott,D
-SD,South Dakota,SD1,,,,,,,,,John Thune,D
-TN,Tennessee,TN2,,,,,,,,,Marsha Blackburn,D
-TX,Texas,TX2,,,,,,,,,Ted Cruz,D
-UT,Utah,UT1,,,,,,,,,Mike Lee,D
-UT,Utah,UT2,,,,,,,,,Mitt Romney,D
+SC,South Carolina,SC1,Jaime Harrison,,Lindsey Graham,R,,0.442,0.545,Yes,Lindsey Graham,R
+SC,South Carolina,SC2,,,,,,,,,Tim Scott,R
+SD,South Dakota,SD2,Dan Ahlers,,Mike Rounds,R,,0.343,0.657,Yes,Mike Rounds,R
+SD,South Dakota,SD1,,,,,,,,,John Thune,R
+TN,Tennessee,TN1,Marquita Bradshaw,Bill Hagerty,Lamar Alexander,R,,0.352,0.622,Yes,Lamar Alexander,R
+TN,Tennessee,TN2,,,,,,,,,Marsha Blackburn,R
+TX,Texas,TX1,MJ Hegar,,John Cornyn,R,,0.439,0.535,Yes,John Cornyn,R
+TX,Texas,TX2,,,,,,,,,Ted Cruz,R
+UT,Utah,UT1,,,,,,,,,Mike Lee,R
+UT,Utah,UT2,,,,,,,,,Mitt Romney,R
 VA,Vermont,VA1,,,,,,,,,Patrick Leahy,D
 VA,Vermont,VA2,,,,,,,,,Bernie Sanders,I
+VT,Virginia,VT1,Daniel Gade,,Mark Warner,D,,0.56,0.44,Yes,Mark Warner,D
 VT,Virginia,VT2,,,,,,,,,Tim Kaine,D
 WA,Washington,WA1,,,,,,,,,Patty Murray,D
 WA,Washington,WA2,,,,,,,,,Maria Cantwell,D
+WI,West Virginia,WI2,Paula Jean Swearengin,,Shelley Moore Capito,R,,0.27,0.703,Yes,Shelley Moore Capito,R
 WI,West Virginia,WI1,,,,,,,,,Joe Manchin,D
-WV,Wisconsin,WV1,,,,,,,,,Ron Johnson,D
+WV,Wisconsin,WV1,,,,,,,,,Ron Johnson,R
 WV,Wisconsin,WV2,,,,,,,,,Tammy Baldwin,D
-WY,Wyoming,WY2,,,,,,,,,John Barrasso,D
+WY,Wyoming,WY1,Merav Ben-David,Cynthia Lummis,Mike Enzi,R,,0.269,0.731,Yes,Mike Enzi,R
+WY,Wyoming,WY2,,,,,,,,,John Barrasso,R
