@@ -1,0 +1,101 @@
+state,result.winner,result.caucus,result.r,result.d,result.i,result.reporting,result.time,seatid,encumbentparty,Cook Political Rating,election
+AK,,,,,,,,AK1,D,Tossup,yes
+AL,R,R,100,0,,,8:00 EST,AL1,R,Solid Republican,yes
+AR,R,R,56.5,40,,73,1:18 EST,AR1,D,Tossup,yes
+CO,R,R,50.3,44.3,,87,1:41 EST,CO1,D,Tossup,yes
+DE,D,D,42.2,55.8,,100,00:48 EST,DE1,D,Solid Democratic,yes
+GA,R,R,53,45.1,,99.6,1:42 EST,GA1,R,Tossup,yes
+HI,D,D,25.2,72.5,,7.7,1:42 EST,HI1,D,Solid Democratic,yes
+IA,R,R,52.1,43.8,,98.6,1:46 EST,IA1,D,Tossup,yes
+ID,R,R,66.39,33.61,,55,1:15 EST,ID1,R,Solid Republican,yes
+IL,D,D,43.3,52.92,,97.92,00:51 EST,IL1,D,Solid Democratic,yes
+KS,R,R,53.07,,42.72,69.4,00:41 EST,KS1,R,Tossup,yes
+KY,R,R,56.2,40.7,,100,2:07 EST,KY1,R,Lean Republican,yes
+LA,,,42.1,41,,100,1:50 EST,LA1,D,Tossup,yes
+MA,D,D,37.8,62.2,,97.24,00:51 EST,MA1,D,Solid Democratic,yes
+ME,R,R,68.1,32,,63.9,1:52 EST,ME1,R,Solid Republican,yes
+MI,D,D,41.3,54.7,,93.9,1:55 EST,MI1,D,Lean Democratic,yes
+MN,D,D,42.8,53.3,,92.2,1:55 EST,MN1,D,Likely Democratic,yes
+MS,R,R,59.2,38.6,,96.5,00:49 EST,MS1,R,Likely Republican,yes
+MT,R,R,57.48,40.46,,59,1:15 EST,MT1,D,Solid Republican,yes
+NC,R,R,49.1,47.2,3.7,96.6,11:25 EST,NC1,D,Tossup,yes
+NE,R,R,64.9,30.91,,66,1:15 EST,NE1,R,Solid Republican,yes
+NH,D,D,48.4,51.6,,87.4,00:53 EST,NH1,D,Tossup,yes
+NJ,D,D,42.06,56.11,,95.53,00:43 EST,NJ1,D,Solid Democratic,yes
+NM,D,D,44.97,55.03,,65,00:44 EST,NM1,D,Solid Democratic,yes
+OK,R,R,68,28.5,,100,1:56 EST,OK1,R,Solid Republican,yes
+OK,R,R,67.9,29,,100,1:56 EST,OK2,R,Solid Republican,yes
+OR,D,D,38.2,55.14,,65.1,00:46 EST,OR1,D,Likely Democratic,yes
+RI,D,D,29.5,70.5,,99.8,1:58 EST,RI1,D,Solid Democratic,yes
+SC,R,R,54.5,38.9,,99,1:59 EST,SC1,R,Solid Republican,yes
+SC,R,R,61.2,37.1,,99,2:00 EST,SC2,D,Solid Republican,yes
+SD,R,R,51.6,28.4,16.8,87.5,2:00 EST,SD1,D,Lean Republican,yes
+TN,R,R,61.9,31.9,,99,2:03 EST,TN1,R,Solid Republican,yes
+TX,R,R,61.6,34.4,,97,2:03 EST,TX1,R,Solid Republican,yes
+VA,,,,,,,,VA1,D,Likely Democratic,yes
+WV,R,R,62,34.6,,98.6,2:06 EST,WV1,D,Likely Republican,yes
+WY,R,R,72.3,17.6,,100,2:06 EST,WY1,R,Solid Republican,yes
+AK,,,,,,,,AK2,R,,
+AL,,,,,,,,AL2,R,,
+AR,,,,,,,,AR2,R,,
+AZ,,,,,,,,AZ1,R,,
+AZ,,,,,,,,AZ2,R,,
+CA,,,,,,,,CA1,D,,
+CA,,,,,,,,CA2,D,,
+CO,,,,,,,,CO2,D,,
+CT,,,,,,,,CT1,D,,
+CT,,,,,,,,CT2,D,,
+DE,,,,,,,,DE2,D,,
+FL,,,,,,,,FL1,R,,
+FL,,,,,,,,FL2,D,,
+GA,,,,,,,,GA2,R,,
+HI,,,,,,,,HI2,D,,
+IA,,,,,,,,IA2,R,,
+ID,,,,,,,,ID2,R,,
+IL,,,,,,,,IL2,R,,
+IN,,,,,,,,IN1,R,,
+IN,,,,,,,,IN2,D,,
+KS,,,,,,,,KS2,R,,
+KY,,,,,,,,KY2,R,,
+LA,,,,,,,,LA2,R,,
+MA,,,,,,,,MA2,D,,
+MD,,,,,,,,MD1,D,,
+MD,,,,,,,,MD2,D,,
+ME,,,,,,,,ME2,I,,
+MI,,,,,,,,MI2,D,,
+MN,,,,,,,,MN2,D,,
+MO,,,,,,,,MO1,D,,
+MO,,,,,,,,MO2,R,,
+MS,,,,,,,,MS2,R,,
+MT,,,,,,,,MT2,D,,
+NC,,,,,,,,NC2,R,,
+ND,,,,,,,,ND1,R,,
+ND,,,,,,,,ND2,D,,
+NE,,,,,,,,NE2,R,,
+NH,,,,,,,,NH2,R,,
+NJ,,,,,,,,NJ2,D,,
+NM,,,,,,,,NM2,D,,
+NV,,,,,,,,NV1,D,,
+NV,,,,,,,,NV2,R,,
+NY,,,,,,,,NY1,D,,
+NY,,,,,,,,NY2,D,,
+OH,,,,,,,,OH1,R,,
+OH,,,,,,,,OH2,D,,
+OR,,,,,,,,OR2,D,,
+PA,,,,,,,,PA1,D,,
+PA,,,,,,,,PA2,R,,
+RI,,,,,,,,RI2,D,,
+SD,,,,,,,,SD2,R,,
+TN,,,,,,,,TN2,R,,
+TX,,,,,,,,TX2,R,,
+UT,,,,,,,,UT1,R,,
+UT,,,,,,,,UT2,R,,
+VA,,,,,,,,VA2,D,,
+VT,,,,,,,,VT1,D,,
+VT,,,,,,,,VT2,I,,
+WA,,,,,,,,WA1,D,,
+WA,,,,,,,,WA2,D,,
+WI,,,,,,,,WI1,D,,
+WI,,,,,,,,WI2,R,,
+WV,,,,,,,,WV2,D,,
+WY,,,,,,,,WY2,R,,
