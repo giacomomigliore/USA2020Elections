@@ -133,6 +133,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Bryan,Black Creek",Bryan,Black Creek,1442,393,21,77.69,21.17,43.48,1856,1410,395,76.38,21.39,45.01,1846,772,244,42.53,13.44,70.91,799,1815
 "Bryan,Ways Station",Bryan,Ways Station,717,536,21,56.27,42.07,85.8,1274,694,526,55.07,41.74,86.67,1260,391,325,31.5,26.18,94.68,525,1241
 "Bryan,RH Rec Complex",Bryan,RH Rec Complex,1137,888,47,54.87,42.85,87.98,2072,1118,858,54.66,41.95,87.29,2045,625,455,30.86,22.46,91.6,945,2025
+"Bryan,Fort Stewart Military Reserve (No Voters)",Bryan,JF Gregory Park,1654,573,35,73.12,25.33,52.21,2262,1658,534,73.78,23.76,101,2247,999,360,44.87,16.17,101,867,2226
 "Bryan,J.F. Gregory Park",Bryan,JF Gregory Park,1654,573,35,73.12,25.33,52.21,2262,1658,534,73.78,23.76,49.98,2247,999,360,44.87,16.17,71.3,867,2226
 "Bryan,Keller",Bryan,Keller,2205,1017,43,67.53,31.14,63.61,3265,2226,948,68.36,29.11,60.75,3256,1299,598,40.41,18.6,78.19,1317,3214
 "Bryan,Hwy 144 East",Bryan,Hwy 144 East,2528,1393,71,63.32,34.89,71.57,3992,2501,1347,63.26,34.07,70.81,3953,1387,810,35.62,20.8,85.18,1696,3893
@@ -189,6 +190,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Camden,South St Marys",Camden,South St Marys,1013,546,21,64.11,34.55,70.44,1580,1003,516,64.41,33.14,68.73,1557,442,236,28.83,15.39,86.56,855,1533
 "Camden,Mush Bluff",Camden,Mush Bluff,1308,639,44,65.69,32.09,66.4,1991,1275,596,64.58,30.19,65.61,1974,614,202,31.64,10.41,78.77,1124,1940
 "Camden,West St Marys",Camden,West St Marys,1786,708,33,70.67,28.01,57.34,2527,1794,640,71.78,25.61,53.83,2499,911,284,37.06,11.55,74.49,1263,2458
+"Candler,Candler-1736",Candler,Jack Strickland Comm Center,3133,1269,29,70.7,28.63,57.93,4431,3077,1233,70.41,28.21,57.8,4370,1555,778,35.97,18,82.03,1989,4322
 "Candler,Jack Strickland Comm Center",Candler,Jack Strickland Comm Center,3133,1269,29,70.7,28.63,57.93,4431,3077,1233,70.41,28.21,57.8,4370,1555,778,35.97,18,82.03,1989,4322
 "Carroll,Kansas",Carroll,Kansas,787,68,6,91.4,7.89,16.49,861,775,68,89.9,7.88,17.98,862,430,52,50.76,6.13,55.37,365,847
 "Carroll,Bowdon",Carroll,Bowdon,1483,493,19,74.33,24.71,50.38,1995,1453,470,73.6,23.8,50.2,1974,815,350,41.43,17.79,76.36,802,1967
@@ -212,7 +214,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Carroll,West Carrollton",Carroll,West Carrollton,802,1429,46,35.22,62.75,127.53,2277,797,1358,35.46,60.43,124.97,2247,396,865,17.66,38.58,120.92,981,2242
 "Carroll,Lakeshore Rec Center",Carroll,Lakeshore Rec Center,590,440,15,56.45,42.1,85.65,1045,573,426,55.63,41.35,85.72,1030,290,298,28.23,29.01,100.78,439,1027
 "Carroll,Bonner",Carroll,Bonner,1327,1035,36,55.33,43.16,87.83,2398,1353,979,56.72,41.04,84.32,2385,742,641,31.38,27.11,95.73,981,2364
-"Carroll,University Of W. Ga",Carroll,University of W GA,667,596,25,51.78,46.27,94.49,1288,704,549,55.12,42.99,87.87,1277,411,301,32.33,23.68,91.35,559,1271
+"Carroll,University Of W. Ga",Carroll,University Of W GA,667,596,25,51.78,46.27,94.49,1288,704,549,55.12,42.99,87.87,1277,411,301,32.33,23.68,91.35,559,1271
 "Carroll,County Admin Bldg",Carroll,County Admin Bldg,994,739,42,56,41.63,85.63,1775,994,693,56.83,39.62,82.79,1749,545,481,31.19,27.53,96.34,721,1747
 "Carroll,Tabernacle Church",Carroll,Tabernacle Church,708,407,25,62.1,35.7,73.6,1140,717,389,63.28,34.33,71.05,1133,402,272,35.63,24.11,88.48,454,1128
 "Carroll,Burson Center",Carroll,Burson Center,638,337,9,64.83,34.24,69.41,984,633,310,65.59,32.12,66.53,965,337,240,34.88,24.84,89.96,389,966
@@ -237,20 +239,21 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Charlton,Folkston Fire",Charlton,Folkston Fire,486,60,8,87.72,10.83,23.11,554,478,50,87.22,9.12,21.9,548,151,19,28.7,3.61,74.91,356,526
 "Charlton,Racepond",Charlton,Racepond,194,20,1,90.23,9.3,19.07,215,187,22,89.04,10.47,21.43,210,78,6,38.04,2.92,64.88,121,205
 "Charlton,Winokur",Charlton,Winokur,205,18,1,91.51,8.03,16.52,224,201,16,90.95,7.23,16.28,221,65,4,30.95,1.9,70.95,141,210
+"Chatham,Fort Pulaski National Monument (No Voters",Chatham,1-01C First Presbyterian Church,952,1597,32,36.88,61.87,124.99,2581,973,1543,37.96,60.2,101,2563,607,1254,23.88,49.35,101,680,2541
 "Chatham,First Presbyterian Church",Chatham,1-01C First Presbyterian Church,952,1597,32,36.88,61.87,124.99,2581,973,1543,37.96,60.2,122.24,2563,607,1254,23.88,49.35,125.47,680,2541
 "Chatham,J E A",Chatham,1-05C JEA Building,595,949,32,37.75,60.21,122.46,1576,593,925,38.13,59.48,121.35,1555,346,705,22.49,45.83,123.34,487,1538
-"Chatham,Central Church Of Christ",Chatham,1-06C Central Church of Christ,854,704,29,53.81,44.36,90.55,1587,865,670,55.06,42.64,87.58,1571,478,561,30.77,36.12,105.35,514,1553
+"Chatham,Central Church Of Christ",Chatham,1-06C Central Church Of Christ,854,704,29,53.81,44.36,90.55,1587,865,670,55.06,42.64,87.58,1571,478,561,30.77,36.12,105.35,514,1553
 "Chatham,Grace United Methodist Church",Chatham,1-08C Grace United Methodist Church,628,587,10,51.26,47.91,96.65,1225,634,553,52.52,45.81,93.29,1207,369,418,30.77,34.86,104.09,412,1199
 "Chatham,Immanuel Baptist Church",Chatham,1-09C Immanuel Baptist Church,181,265,5,40.13,58.75,118.62,451,182,250,41.26,56.68,115.42,441,106,167,24.03,37.86,113.83,168,441
 "Chatham,St. Thomas Episcopal Church",Chatham,1-10C St Thomas Episcopal Church,626,300,17,66.38,31.81,65.43,943,643,279,68.4,29.68,61.28,940,384,201,41.33,21.63,80.3,344,929
-"Chatham,Isle Of Hope Baptist",Chatham,1-12C Isle of Hope Baptist,1080,544,16,65.85,33.17,67.32,1640,1127,484,69.26,29.74,60.48,1627,683,385,42.18,23.78,81.6,551,1619
+"Chatham,Isle Of Hope Baptist",Chatham,1-12C Isle Of Hope Baptist,1080,544,16,65.85,33.17,67.32,1640,1127,484,69.26,29.74,60.48,1627,683,385,42.18,23.78,81.6,551,1619
 "Chatham,The Sanctuary",Chatham,1-13C The Sanctuary,589,414,14,57.91,40.7,82.79,1017,579,404,57.61,40.19,82.58,1005,327,287,32.53,28.55,96.02,391,1005
 "Chatham,Islands Christian Ch",Chatham,1-14C Compassion Christian Church,785,488,19,60.75,37.77,77.02,1292,779,481,60.9,37.6,76.7,1279,488,346,38.3,27.15,88.85,440,1274
 "Chatham,Ferguson Ave Baptist",Chatham,1-16C Ferguson Ave Baptist,1497,589,24,70.94,27.91,56.97,2110,1491,568,71.37,27.19,55.82,2089,862,400,41.4,19.21,77.81,820,2082
 "Chatham,Islands Christian Ch",Chatham,1-17C Islands Christian Church,1666,860,35,65.05,33.58,68.53,2561,1680,792,66.71,31.45,64.74,2518,985,575,39,22.77,83.77,965,2525
 "Chatham,Blackshear Community Center",Chatham,2-02C Blackshear Community Center,161,713,21,17.98,79.66,161.68,895,171,685,19.52,78.19,158.67,876,97,471,11.08,53.82,142.74,307,875
 "Chatham,W W Law Center",Chatham,2-03C W W Law Center,115,707,25,13.57,83.47,169.9,847,126,686,15.03,81.86,166.83,838,66,488,7.99,59.07,151.08,272,826
-"Chatham,Fellowship Of Love Community Church",Chatham,2-04C Fellowship of Love Church,129,1647,23,7.17,91.55,184.38,1799,132,1597,7.44,90.02,182.58,1774,61,1165,3.43,65.63,162.2,549,1775
+"Chatham,Fellowship Of Love Community Church",Chatham,2-04C Fellowship Of Love Church,129,1647,23,7.17,91.55,184.38,1799,132,1597,7.44,90.02,182.58,1774,61,1165,3.43,65.63,162.2,549,1775
 "Chatham,Holy Spirit Lutheran Church",Chatham,2-05C Holy Spirit Lutheran Church,135,1123,22,10.54,87.73,177.19,1280,132,1098,10.41,86.66,176.25,1267,79,803,6.25,63.57,157.32,381,1263
 "Chatham,Eli Whitney Complex",Chatham,2-06C Eli Whitney Complex,65,335,7,15.97,82.3,166.33,407,58,324,14.68,82.02,167.34,395,34,200,8.56,50.37,141.81,163,397
 "Chatham,Christ Community Church At Morningside",Chatham,2-07C Christ Community Church,220,1347,22,13.84,84.77,170.93,1589,234,1299,14.89,82.68,167.79,1571,121,957,7.72,61.07,153.35,489,1567
@@ -273,7 +276,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Chatham,Frank Murray Community Center",Chatham,4-02C Frank Murray Comm Center,1044,647,26,60.8,37.68,76.88,1717,1002,652,59.32,38.6,79.28,1689,582,429,34.68,25.56,90.88,667,1678
 "Chatham,Lighthouse Baptist Church",Chatham,4-04C Lighthouse Baptist Church,1222,608,23,65.94,32.81,66.87,1853,1221,578,66.43,31.44,65.01,1838,748,427,40.98,23.39,82.41,650,1825
 "Chatham,Saint Francis Episcopal Church",Chatham,4-05C St Francis Episcopal Church,1125,601,36,63.84,34.1,70.26,1762,1111,577,63.77,33.12,69.35,1742,675,409,39.15,23.72,84.57,640,1724
-"Chatham,First Baptist Church Of The Island",Chatham,4-06C First Baptist of the Island,1226,531,28,68.68,29.74,61.06,1785,1228,523,68.98,29.38,60.4,1780,760,371,43.15,21.06,77.91,630,1761
+"Chatham,First Baptist Church Of The Island",Chatham,4-06C First Baptist Of the Island,1226,531,28,68.68,29.74,61.06,1785,1228,523,68.98,29.38,60.4,1780,760,371,43.15,21.06,77.91,630,1761
 "Chatham,Wilmington Island United Methodist Church",Chatham,4-07C Wilmington Island UMC,1568,907,28,62.64,36.23,73.59,2503,1569,853,63.31,34.42,71.11,2478,913,601,37.18,24.48,87.3,941,2455
 "Chatham,Wilmington Island Presbyterian Church",Chatham,4-08C Wilmington Island Pres Church,1497,669,35,68.01,30.39,62.38,2201,1520,634,69.62,29.04,59.42,2183,916,455,42.21,20.96,78.75,799,2170
 "Chatham,Guard House Comm Ctr",Chatham,4-10C Guard House Comm Ctr,674,471,17,58,40.53,82.53,1162,694,435,60.34,37.82,77.48,1150,412,350,35.95,30.54,94.59,384,1146
@@ -307,7 +310,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Chatham,Pooler City Hall",Chatham,7-06C Pooler City Hall,1030,1087,38,47.79,50.44,102.65,2155,1004,1073,47.06,50.3,103.24,2133,550,682,25.91,32.13,106.22,890,2122
 "Chatham,Rothwell Baptist Church",Chatham,7-07C Rothwell Baptist Church,1581,1036,36,59.59,39.05,79.46,2653,1563,992,59.58,37.81,78.23,2623,910,632,34.82,24.18,89.36,1071,2613
 "Chatham,Bloomingdale Community Center",Chatham,7-08C Bloomingdale Comm Ctr,1387,366,19,78.27,20.65,42.38,1772,1342,363,76.72,20.75,44.03,1749,746,246,42.82,14.12,71.3,750,1742
-"Chatham,Savannah Holy Church Of God",Chatham,7-09C Savannah Holy C of G,705,979,26,41.22,57.25,116.03,1710,700,960,41.34,56.7,115.36,1693,397,622,23.46,36.76,113.3,673,1692
+"Chatham,Savannah Holy Church Of God",Chatham,7-09C Savannah Holy C Of G,705,979,26,41.22,57.25,116.03,1710,700,960,41.34,56.7,115.36,1693,397,622,23.46,36.76,113.3,673,1692
 "Chatham,Progressive Rec Ctr",Chatham,7-10C Progressive Rec Center,900,1652,58,34.48,63.29,128.81,2610,861,1634,33.39,63.38,129.99,2578,487,1091,18.94,42.45,123.51,992,2570
 "Chatham,Seventh Day Adv Chr",Chatham,7-11C Seventh Day Adv Church,1464,2508,84,36.09,61.83,125.74,4056,1404,2470,35.02,61.61,126.59,4009,732,1500,18.31,37.52,119.21,1765,3997
 "Chatham,Pooler Church",Chatham,7-12C Pooler Church,933,1369,49,39.68,58.23,118.55,2351,925,1340,39.81,57.68,117.87,2323,505,911,21.86,39.43,117.57,894,2310
@@ -316,12 +319,13 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Chatham,Rice Creek School",Chatham,7-15C Rice Creek School,546,974,30,35.22,62.83,127.61,1550,529,965,34.39,62.74,128.35,1538,282,632,18.39,41.22,122.83,619,1533
 "Chatham,Rice Creek School",Chatham,7-16C Pooler Recreation Center Gymnasium,1437,1231,38,53.1,45.49,92.39,2706,1416,1176,53.23,44.21,90.98,2660,804,797,30.3,30.04,99.74,1052,2653
 "Chatham,Civic Center",Chatham,8-01C Civic Center,64,267,6,18.99,79.22,160.23,337,66,252,20.3,77.53,157.23,325,33,142,10.15,43.69,133.54,150,325
+"Chatham,Georgetown Elementar",Chatham,8-02C Hellenic Center,172,827,19,16.89,81.23,164.34,1018,171,800,17.04,79.76,162.72,1003,99,532,9.97,53.62,143.65,361,992
 "Chatham,Hellenic Center",Chatham,8-02C Hellenic Center,172,827,19,16.89,81.23,164.34,1018,171,800,17.04,79.76,162.72,1003,99,532,9.97,53.62,143.65,361,992
 "Chatham,Silk Hope Baptist Church",Chatham,8-03C Silk Hope Baptist Church,304,164,5,64.27,34.67,70.4,473,297,159,63.73,34.12,70.39,466,188,102,40,21.7,81.7,180,470
 "Chatham,West Broad Street Ymca",Chatham,8-05C W Broad St YMCA,36,639,12,5.24,93.01,187.77,687,38,620,5.59,91.31,185.72,679,9,443,1.33,65.92,164.59,220,672
 "Chatham,Tompkins Recreation Center",Chatham,8-06C Tompkins Rec Center,26,509,7,4.79,93.91,189.12,542,24,490,4.51,92.27,187.76,531,6,382,1.12,71.8,170.68,144,532
 "Chatham,Woodville-Tompkins Technical Inst",Chatham,8-07C Woodville-Tompkins TI,17,320,1,5.02,94.67,189.65,338,15,315,4.46,93.75,189.29,336,10,253,2.97,75.29,172.32,73,336
-"Chatham,Resurrection Of Our Lord Catholic Church",Chatham,8-08C Resur of Our Lord Church,36,867,7,3.95,95.27,191.32,910,29,846,3.26,95.16,191.9,889,11,647,1.22,71.96,170.74,241,899
+"Chatham,Resurrection Of Our Lord Catholic Church",Chatham,8-08C Resur Of Our Lord Church,36,867,7,3.95,95.27,191.32,910,29,846,3.26,95.16,191.9,889,11,647,1.22,71.96,170.74,241,899
 "Chatham,Moses Jackson Center",Chatham,8-09C Moses Jackson Center,23,672,11,3.25,95.18,191.93,706,20,658,2.87,94.67,191.8,695,12,495,1.73,71.73,170,183,690
 "Chatham,Carver Heights Comm",Chatham,8-10C Carver Heights Comm Ctr,14,989,7,1.38,97.92,196.54,1010,23,957,2.3,95.98,193.68,997,5,747,0.49,74.62,174.13,249,1001
 "Chatham,Butler Elementary Sc",Chatham,8-11C Butler Elementary,17,938,6,1.76,97.6,195.84,961,26,914,2.74,96.41,193.67,948,5,747,0.52,78.3,177.78,202,954
@@ -672,7 +676,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Columbia,Eubank-Blanchard Center",Columbia,Eubank-Blanchard Center,947,277,11,76.68,22.42,45.74,1235,940,269,76.73,21.95,45.22,1225,536,184,44.15,15.15,71,494,1214
 "Columbia,Second Mt. Carmel Baptist Church",Columbia,Second Mt. Carmel Baptist Church,268,284,4,48.2,51.07,102.87,556,271,280,49,50.63,101.63,553,167,192,30.47,35.03,104.56,189,548
 "Columbia,Damascus Baptist Church",Columbia,Damascus Baptist Church,720,99,5,87.37,12.01,24.64,824,718,90,87.45,10.96,23.51,821,409,54,49.87,6.58,56.71,357,820
-"Columbia,Col Cty Bd of Edu",Columbia,Col Cty Bd of Edu,1068,570,16,64.57,34.46,69.89,1654,1060,539,64.79,32.94,68.15,1636,603,304,37.03,18.67,81.64,721,1628
+"Columbia,Col Cty Bd Of Edu",Columbia,Col Cty Bd Of Edu,1068,570,16,64.57,34.46,69.89,1654,1060,539,64.79,32.94,68.15,1636,603,304,37.03,18.67,81.64,721,1628
 "Columbia,Greenbrier High",Columbia,Greenbrier High,1871,793,46,69.04,29.26,60.22,2710,1916,722,71.09,26.79,55.7,2695,1140,437,42.66,16.35,73.69,1095,2672
 "Columbia,Parkway Baptist Church",Columbia,Parkway Baptist Church,2324,1269,60,63.61,34.73,71.12,3653,2337,1226,64.32,33.74,69.42,3633,1331,712,36.93,19.75,82.82,1561,3604
 "Columbia,Riverview Church",Columbia,Riverview Church,683,378,17,63.35,35.06,71.71,1078,695,353,64.95,32.99,68.04,1070,442,244,41.07,22.67,81.6,390,1076
@@ -693,7 +697,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Columbia,Lakeside Middle",Columbia,Lakeside Middle,825,512,35,60.13,37.31,77.18,1372,832,486,61.17,35.73,74.56,1360,462,271,34.02,19.95,85.93,625,1358
 "Columbia,Martinez Baptist",Columbia,Martinez Baptist,767,528,28,57.97,39.9,81.93,1323,764,509,58.36,38.88,80.52,1309,411,299,31.66,23.03,91.37,588,1298
 "Columbia,Gold Cross EMS",Columbia,Gold Cross EMS,1007,378,19,71.72,26.92,55.2,1404,1001,351,72.32,25.36,53.04,1384,586,214,42.4,15.48,73.08,582,1382
-"Columbia,Church of Our Savior",Columbia,Church of Our Savior,984,649,25,59.34,39.14,79.8,1658,972,631,59.19,38.42,79.23,1642,535,337,32.92,20.73,87.81,753,1625
+"Columbia,Church Of Our Savior",Columbia,Church Of Our Savior,984,649,25,59.34,39.14,79.8,1658,972,631,59.19,38.42,79.23,1642,535,337,32.92,20.73,87.81,753,1625
 "Columbia,West Acres Baptist",Columbia,West Acres Baptist,1232,570,20,67.61,31.28,63.67,1822,1231,544,68.16,30.12,61.96,1806,676,347,37.76,19.38,81.62,767,1790
 "Columbia,Journey Comm Church",Columbia,Journey Comm Church,808,238,15,76.15,22.43,46.28,1061,811,220,77.53,21.03,43.5,1046,456,140,43.3,13.29,69.99,457,1053
 "Columbia,Wesley Methodist",Columbia,Wesley Methodist,1304,578,29,68.23,30.24,62.01,1911,1309,552,68.85,29.03,60.18,1901,724,323,38.32,17.09,78.77,842,1889
@@ -1079,7 +1083,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Emanuel,Nunez",Emanuel,Nunez,222,52,4,79.85,18.7,38.85,278,222,48,81.02,17.51,36.49,274,103,37,38.28,13.75,75.47,129,269
 "Emanuel,Twin City",Emanuel,Twin City,730,400,9,64.09,35.11,71.02,1139,737,385,65.22,34.07,68.85,1130,348,230,31.46,20.79,89.33,528,1106
 "Emanuel,Adrian",Emanuel,Adrian,489,74,3,86.39,13.07,26.68,566,479,66,85.53,11.78,26.25,560,246,44,44.56,7.97,63.41,262,552
-"Evans,Veterans Community Center",Evans,Veterans Community Center,2888,1324,35,68,31.17,63.17,4247,2876,1251,68.62,29.84,61.22,4191,1503,791,36.24,19.07,82.83,1853,4147
+"Evans,Veteran'S Comm Ctr",Evans,Veterans Community Center,2888,1324,35,68,31.17,63.17,4247,2876,1251,68.62,29.84,61.22,4191,1503,791,36.24,19.07,82.83,1853,4147
 "Fannin,Colwell",Fannin,Colwell,711,150,4,82.19,17.34,35.15,865,708,147,81.94,17.01,35.07,864,220,100,25.64,11.65,86.01,538,858
 "Fannin,Fairplay",Fannin,Fairplay,726,169,13,79.95,18.61,38.66,908,715,168,79.79,18.75,38.96,896,232,116,26.03,13.01,86.98,543,891
 "Fannin,Flinthill",Fannin,Flinthill,1824,299,14,85.35,13.99,28.64,2137,1776,288,84.01,13.62,29.61,2114,569,167,27.3,8.01,80.71,1348,2084
@@ -1600,7 +1604,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Glynn,St Williams Church",Glynn,St William Catholic Church,2399,1122,42,67.33,31.49,64.16,3563,2455,1016,69.68,28.83,59.15,3523,1268,553,36.63,15.97,79.34,1640,3461
 "Glynn,First Baptist",Glynn,First Baptist,2312,1090,38,67.2,31.68,64.48,3440,2347,1008,68.64,29.48,60.84,3419,1106,610,32.78,18.08,85.3,1657,3373
 "Glynn,Jekyll Island",Glynn,Jekyll Island,343,277,4,54.96,44.39,89.43,624,343,262,55.59,42.46,86.87,617,175,179,28.97,29.63,100.66,250,604
-"Glynn,Sterling Church of God",Glynn,Sterling Church of God,1725,835,27,66.67,32.27,65.6,2587,1671,804,65.68,31.6,65.92,2544,660,326,26.36,13.02,86.66,1517,2503
+"Glynn,Sterling Church Of God",Glynn,Sterling Church Of God,1725,835,27,66.67,32.27,65.6,2587,1671,804,65.68,31.6,65.92,2544,660,326,26.36,13.02,86.66,1517,2503
 "Glynn,SE Baptist Bldg",Glynn,SE Baptist Bldg,908,382,20,69.31,29.16,59.85,1310,891,370,68.8,28.57,59.77,1295,383,152,30.06,11.93,81.87,739,1274
 "Glynn,Career Academy",Glynn,Career Academy,1412,579,39,69.55,28.52,58.97,2030,1395,541,69.64,27,57.36,2003,668,243,33.94,12.34,78.4,1057,1968
 "Glynn,C B Greer School",Glynn,C B Greer School,1530,725,29,66.98,31.74,64.76,2284,1527,681,67.53,30.11,62.58,2261,731,331,33.01,14.95,81.94,1152,2214
@@ -1800,8 +1804,8 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Habersham,Habersham North",Habersham,Habersham North,5752,1177,93,81.91,16.76,34.85,7022,5718,1079,81.94,15.46,33.52,6978,1902,726,27.41,10.46,83.05,4311,6939
 "Habersham,Habersham South",Habersham,Habersham South,3267,858,52,78.21,20.54,42.33,4177,3203,811,77.44,19.6,42.16,4136,1014,517,24.71,12.6,87.89,2572,4103
 "Habersham,Demorest",Habersham,Demorest,3098,522,37,84.71,14.27,29.56,3657,3027,502,83.52,13.85,30.33,3624,1005,316,27.9,8.77,80.87,2280,3601
-"Habersham,Town of Mt. Airy",Habersham,Town of Mt. Airy,403,111,9,77.05,21.22,44.17,523,397,104,76.34,20,43.66,520,143,62,28.03,12.15,84.12,305,510
-"Habersham,City of Baldwin",Habersham,City of Baldwin,523,190,10,72.33,26.27,53.94,723,522,162,74.04,22.97,48.93,705,154,87,22.06,12.46,90.4,457,698
+"Habersham,Town Of Mt. Airy",Habersham,Town Of Mt. Airy,403,111,9,77.05,21.22,44.17,523,397,104,76.34,20,43.66,520,143,62,28.03,12.15,84.12,305,510
+"Habersham,City Of Baldwin",Habersham,City Of Baldwin,523,190,10,72.33,26.27,53.94,723,522,162,74.04,22.97,48.93,705,154,87,22.06,12.46,90.4,457,698
 "Habersham,Mud Creek",Habersham,Mud Creek,2588,455,23,84.4,14.84,30.44,3066,2532,443,83.15,14.54,31.39,3045,788,243,26.11,8.05,81.94,1986,3017
 "Habersham,Amys Creek",Habersham,Amys Creek,1006,250,8,79.58,19.77,40.19,1264,986,239,78.81,19.1,40.29,1251,365,182,29.1,14.51,85.41,707,1254
 "Hall,Wilson",Hall,Wilson,2913,1287,41,68.68,30.34,61.66,4241,2940,1169,69.91,27.8,57.89,4205,967,802,22.98,19.05,96.07,2439,4208
@@ -1840,7 +1844,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Hancock,Courthouse",Hancock,Courthouse,146,470,5,23.51,75.68,152.17,621,146,453,23.81,73.89,150.08,613,86,335,14.05,54.73,140.68,191,612
 "Hancock,Second Beulah",Hancock,Second Beulah,48,315,0,13.22,86.77,173.55,363,46,310,12.84,86.59,173.75,358,19,229,5.38,64.87,159.49,105,353
 "Hancock,Mayfield Community Center",Hancock,Mayfield Community Center,37,197,0,15.81,84.18,168.37,234,40,178,18.01,80.18,162.17,222,26,138,11.4,60.52,149.12,64,228
-"Hancock,Power of God",Hancock,Power of God,96,381,5,19.91,79.04,159.13,482,99,366,20.71,76.56,155.85,478,43,264,9.11,55.93,146.82,165,472
+"Hancock,Power Of God",Hancock,Power Of God,96,381,5,19.91,79.04,159.13,482,99,366,20.71,76.56,155.85,478,43,264,9.11,55.93,146.82,165,472
 "Hancock,Warren Chapel",Hancock,Warren Chapel,130,88,1,59.36,40.18,80.82,219,128,86,59.25,39.81,80.56,216,63,69,29.3,32.09,102.79,83,215
 "Hancock,Youth Center",Hancock,Youth Center,115,561,1,16.98,82.86,165.88,677,124,540,18.5,80.59,162.09,670,67,409,10.06,61.41,151.35,190,666
 "Hancock,Second Darrien",Hancock,Second Darrien,93,192,2,32.4,66.89,134.49,287,96,188,33.44,65.5,132.06,287,45,158,15.73,55.24,139.51,83,286
@@ -1946,15 +1950,15 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Jasper,Wyatt",Jasper,Wyatt,1064,279,12,78.52,20.59,42.07,1355,1058,265,78.54,19.67,41.13,1347,615,192,45.75,14.28,68.53,537,1344
 "Jasper,Monticello",Jasper,Monticello,2161,1171,20,64.46,34.93,70.47,3352,2149,1121,64.49,33.64,69.15,3332,1229,810,37.24,24.54,87.3,1261,3300
 "Jasper,Martin & Burney",Jasper,Martin-Burney,2597,311,29,88.42,10.58,22.16,2937,2544,304,87.33,10.43,23.1,2913,1402,216,48.46,7.46,59,1275,2893
-"Jeffdavis,Hazlehurst",Jeffdavis,Hazlehurst,406,408,10,49.27,49.51,100.24,824,407,383,50.3,47.34,97.04,809,145,243,17.92,30.03,112.11,421,809
-"Jeffdavis,Altamaha 1",Jeffdavis,Altamaha 1,447,68,6,85.79,13.05,27.26,521,432,71,84.21,13.84,29.63,513,172,39,33.85,7.67,73.82,297,508
-"Jeffdavis,Altamaha 2",Jeffdavis,Altamaha 2,913,43,5,95,4.47,9.47,961,897,45,94.12,4.72,10.6,953,321,22,34.36,2.35,67.99,591,934
-"Jeffdavis,Blackburn 1",Jeffdavis,Blackburn 1,381,111,5,76.65,22.33,45.68,497,366,107,75,21.92,46.92,488,169,52,35.42,10.9,75.48,256,477
-"Jeffdavis,Blackburn 2",Jeffdavis,Blackburn 2,493,24,3,94.8,4.61,9.81,520,478,26,92.45,5.02,12.57,517,179,21,35.58,4.17,68.59,303,503
-"Jeffdavis,Whitehead 1",Jeffdavis,Whitehead 1,503,152,3,76.44,23.1,46.66,658,485,152,74.96,23.49,48.53,647,179,72,28.41,11.42,83.01,379,630
-"Jeffdavis,Whitehead 2",Jeffdavis,Whitehead 2,451,29,0,93.95,6.04,12.09,480,439,33,92.42,6.94,14.52,475,164,17,35.19,3.64,68.45,285,466
-"Jeffdavis,Ocmulgee 1",Jeffdavis,Ocmulgee 1,821,127,11,85.61,13.24,27.63,959,801,126,84.4,13.27,28.87,949,298,74,31.7,7.87,76.17,568,940
-"Jeffdavis,Ocmulgee 2",Jeffdavis,Ocmulgee 2,280,66,5,79.77,18.8,39.03,351,269,70,77.52,20.17,42.65,347,92,50,27.38,14.88,87.5,194,336
+"Jeff Davis,Hazlehurst",Jeff Davis,Hazlehurst,406,408,10,49.27,49.51,100.24,824,407,383,50.3,47.34,97.04,809,145,243,17.92,30.03,112.11,421,809
+"Jeff Davis,Altamaha 1",Jeff Davis,Altamaha 1,447,68,6,85.79,13.05,27.26,521,432,71,84.21,13.84,29.63,513,172,39,33.85,7.67,73.82,297,508
+"Jeff Davis,Altamaha 2",Jeff Davis,Altamaha 2,913,43,5,95,4.47,9.47,961,897,45,94.12,4.72,10.6,953,321,22,34.36,2.35,67.99,591,934
+"Jeff Davis,Blackburn 1",Jeff Davis,Blackburn 1,381,111,5,76.65,22.33,45.68,497,366,107,75,21.92,46.92,488,169,52,35.42,10.9,75.48,256,477
+"Jeff Davis,Blackburn 2",Jeff Davis,Blackburn 2,493,24,3,94.8,4.61,9.81,520,478,26,92.45,5.02,12.57,517,179,21,35.58,4.17,68.59,303,503
+"Jeff Davis,Whitehead 1",Jeff Davis,Whitehead 1,503,152,3,76.44,23.1,46.66,658,485,152,74.96,23.49,48.53,647,179,72,28.41,11.42,83.01,379,630
+"Jeff Davis,Whitehead 2",Jeff Davis,Whitehead 2,451,29,0,93.95,6.04,12.09,480,439,33,92.42,6.94,14.52,475,164,17,35.19,3.64,68.45,285,466
+"Jeff Davis,Ocmulgee 1",Jeff Davis,Ocmulgee 1,821,127,11,85.61,13.24,27.63,959,801,126,84.4,13.27,28.87,949,298,74,31.7,7.87,76.17,568,940
+"Jeff Davis,Ocmulgee 2",Jeff Davis,Ocmulgee 2,280,66,5,79.77,18.8,39.03,351,269,70,77.52,20.17,42.65,347,92,50,27.38,14.88,87.5,194,336
 "Jefferson,Stapleton Crossroads",Jefferson,Stapleton Crossroads,188,117,3,61.03,37.98,76.95,308,191,111,61.81,35.92,74.11,309,115,82,37.21,26.53,89.32,112,309
 "Jefferson,Matthews",Jefferson,Matthews,322,137,3,69.69,29.65,59.96,462,319,132,69.8,28.88,59.08,457,167,81,36.86,17.88,81.02,205,453
 "Jefferson,Wrens",Jefferson,Wrens,882,1028,12,45.88,53.48,107.6,1922,872,997,45.94,52.52,106.58,1898,494,655,26.2,34.74,108.54,736,1885
@@ -2020,7 +2024,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Liberty,Lewis Frasier School",Liberty,Lewis Frasier School,1034,1818,47,35.66,62.71,127.05,2899,1005,1792,35.11,62.61,127.5,2862,473,1067,16.61,37.49,120.88,1306,2846
 "Liberty,Memorial Dr East",Liberty,Memorial Dr East,219,830,26,20.37,77.2,156.83,1075,224,799,21.21,75.66,154.45,1056,89,470,8.52,45.01,136.49,485,1044
 "Liberty,Button Gwinnett",Liberty,Button Gwinnett,221,317,21,39.53,56.7,117.17,559,205,301,37.54,55.12,117.58,546,83,122,15.39,22.63,107.24,334,539
-"Liberty,Town of Allenhurst",Liberty,Town of Allenhurst,395,1218,22,24.15,74.49,150.34,1635,388,1195,23.9,73.62,149.72,1623,171,712,10.66,44.38,133.72,721,1604
+"Liberty,Town Of Allenhurst",Liberty,Town Of Allenhurst,395,1218,22,24.15,74.49,150.34,1635,388,1195,23.9,73.62,149.72,1623,171,712,10.66,44.38,133.72,721,1604
 "Liberty,Hinesville",Liberty,Hinesville,521,653,14,43.85,54.96,111.11,1188,515,605,44.43,52.2,107.77,1159,241,328,21.04,28.64,107.6,576,1145
 "Liberty,Liberty County Complex",Liberty,Liberty County Complex,1388,1612,38,45.68,53.06,107.38,3038,1365,1592,45.24,52.76,107.52,3017,722,1077,24.15,36.03,111.88,1190,2989
 "Liberty,Walthourville",Liberty,Walthourville,436,1320,31,24.39,73.86,149.47,1787,426,1285,24.12,72.76,148.64,1766,204,746,11.64,42.57,130.93,802,1752
@@ -2031,7 +2035,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Lincoln,Midway",Lincoln,Midway,303,130,2,69.65,29.88,60.23,435,304,123,70.2,28.4,58.2,433,171,81,39.49,18.7,79.21,181,433
 "Lincoln,Lincoln Club House",Lincoln,Lincoln Club House,230,348,1,39.72,60.1,120.38,579,228,328,40.86,58.78,117.92,558,127,192,22.51,34.04,111.53,245,564
 "Lincoln,Lincoln Center",Lincoln,Lincoln Center,859,262,12,75.81,23.12,47.31,1133,854,246,76.18,21.94,45.76,1121,453,141,40.99,12.76,71.77,511,1105
-"Lincoln,Faith Temple of Lincoln",Lincoln,Faith Temple of Lincoln,232,128,2,64.08,35.35,71.27,362,225,126,62.5,35,72.5,360,124,73,35.12,20.67,85.55,156,353
+"Lincoln,Faith Temple Of Lincoln",Lincoln,Faith Temple Of Lincoln,232,128,2,64.08,35.35,71.27,362,225,126,62.5,35,72.5,360,124,73,35.12,20.67,85.55,156,353
 "Lincoln,Tabernacle",Lincoln,Tabernacle,430,310,5,57.71,41.61,83.9,745,419,299,57,40.68,83.68,735,231,164,31.86,22.62,90.76,330,725
 "Lincoln,Bethany Church",Lincoln,Bethany Church,340,72,5,81.53,17.26,35.73,417,332,72,80.58,17.47,36.89,412,190,45,45.56,10.79,65.23,182,417
 "Lincoln,Martins Crossroad",Lincoln,Martins Crossroad,785,185,9,80.18,18.89,38.71,979,777,177,79.77,18.17,38.4,974,429,107,44.5,11.09,66.59,428,964
@@ -2164,7 +2168,7 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Muscogee,St Mark/Heiferhorn",Muscogee,St Mark/Heiferhorn,3243,1676,61,65.12,33.65,68.53,4980,3286,1581,66.39,31.94,65.55,4949,1741,1060,35.28,21.48,86.2,2133,4934
 "Muscogee,Wynnbrook",Muscogee,Wynnbrook,1453,722,18,66.25,32.92,66.67,2193,1535,607,70.7,27.95,57.25,2171,816,448,37.55,20.61,83.06,909,2173
 "Muscogee,Cusseta Rd",Muscogee,Cusseta Rd,188,2589,21,6.71,92.53,185.82,2798,198,2476,7.24,90.62,183.38,2732,75,1672,2.73,61.02,158.29,993,2740
-"Muscogee,Our Lady of Lourdes",Muscogee,Our Lady of Lourdes,864,3537,70,19.32,79.1,159.78,4471,856,3388,19.5,77.21,157.71,4388,414,2186,9.49,50.13,140.64,1760,4360
+"Muscogee,Our Lady Of Lourdes",Muscogee,Our Lady Of Lourdes,864,3537,70,19.32,79.1,159.78,4471,856,3388,19.5,77.21,157.71,4388,414,2186,9.49,50.13,140.64,1760,4360
 "Muscogee,Mt. Pilgrim",Muscogee,Mt. Pilgrim,212,3465,30,5.71,93.47,187.76,3707,214,3375,5.84,92.21,186.37,3660,91,2333,2.49,63.84,161.35,1230,3654
 "Muscogee,Faith Tabernacle",Muscogee,Faith Tabernacle,227,2567,17,8.07,91.31,183.24,2811,236,2508,8.48,90.15,181.67,2782,113,1742,4.05,62.57,158.52,929,2784
 "Muscogee,Canaan",Muscogee,Canaan,664,3286,47,16.61,82.21,165.6,3997,694,3167,17.64,80.5,162.86,3934,289,2094,7.32,53.1,145.78,1560,3943
@@ -2255,14 +2259,14 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Pickens,Talking Rock",Pickens,Talking Rock,1086,131,10,88.5,10.67,22.17,1227,1059,120,86.94,9.85,22.91,1218,473,110,39.41,9.16,69.75,617,1200
 "Pickens,Jasper",Pickens,Jasper,1240,337,16,77.84,21.15,43.31,1593,1192,337,75.87,21.45,45.58,1571,438,241,28.07,15.44,87.37,881,1560
 "Pickens,Tate",Pickens,Tate,1654,224,27,86.82,11.75,24.93,1905,1608,223,85.48,11.85,26.37,1881,763,161,40.71,8.59,67.88,950,1874
-"Pierce,Hacklebarney-Cason",Pierce,Hacklebarney-Cason,1898,478,15,79.38,19.99,40.61,2391,1889,439,80,18.59,38.59,2361,722,233,31.01,10,78.99,1373,2328
+"Pierce,Hacklebarney/Cason",Pierce,Hacklebarney-Cason,1898,478,15,79.38,19.99,40.61,2391,1889,439,80,18.59,38.59,2361,722,233,31.01,10,78.99,1373,2328
 "Pierce,Blackshear",Pierce,Blackshear,1969,226,14,89.13,10.23,21.1,2209,1919,214,88.14,9.83,21.69,2177,681,85,31.73,3.96,72.23,1380,2146
-"Pierce,St Johns-Blackshear",Pierce,St Johns-Blackshear,1113,101,8,91.08,8.26,17.18,1222,1104,92,91.16,7.59,16.43,1211,376,33,31.97,2.8,70.83,767,1176
+"Pierce,St Johns/Blackshear",Pierce,St Johns-Blackshear,1113,101,8,91.08,8.26,17.18,1222,1104,92,91.16,7.59,16.43,1211,376,33,31.97,2.8,70.83,767,1176
 "Pierce,Otter Creek",Pierce,Otter Creek,935,80,6,91.57,7.83,16.26,1021,926,69,91.77,6.83,15.06,1009,330,30,33.19,3.01,69.82,634,994
 "Pierce,Patterson",Pierce,Patterson,821,131,3,85.96,13.71,27.75,955,817,118,86.45,12.48,26.03,945,308,59,33.18,6.35,73.17,561,928
 "Pierce,Mershon",Pierce,Mershon,337,25,0,93.09,6.9,13.81,362,335,19,94.36,5.35,10.99,355,112,13,32,3.71,71.71,225,350
 "Pierce,Alabaha",Pierce,Alabaha,602,55,3,91.21,8.33,17.12,660,599,48,91.31,7.31,16,656,212,22,32.97,3.42,70.45,409,643
-"Pierce,Sunset-Sweat",Pierce,Sunset-Sweat,224,4,0,98.24,1.75,3.51,228,221,3,97.35,1.32,3.97,227,80,3,36.19,1.35,65.16,138,221
+"Pierce,Sunset/Sweat",Pierce,Sunset-Sweat,224,4,0,98.24,1.75,3.51,228,221,3,97.35,1.32,3.97,227,80,3,36.19,1.35,65.16,138,221
 "Pike,Concord",Pike,Concord,881,246,6,77.75,21.71,43.96,1133,886,237,78.26,20.93,42.67,1132,477,168,42.66,15.02,72.36,473,1118
 "Pike,Hollonville",Pike,Hollonville,1277,113,8,91.34,8.08,16.74,1398,1259,107,91.09,7.74,16.65,1382,729,83,53.36,6.07,52.71,554,1366
 "Pike,Meansville",Pike,Meansville,907,103,8,89.09,10.11,21.02,1018,894,108,87.81,10.6,22.79,1018,485,91,48.06,9.01,60.95,433,1009
@@ -2442,9 +2446,9 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Tattnall,Shiloh",Tattnall,Shiloh,370,182,4,66.54,32.73,66.19,556,360,174,65.69,31.75,66.06,548,157,101,29.51,18.98,89.47,274,532
 "Tattnall,Collins",Tattnall,Collins,783,227,3,77.29,22.4,45.11,1013,758,220,75.95,22.04,46.09,998,354,145,35.86,14.69,78.83,488,987
 "Tattnall,Manassas",Tattnall,Manassas,145,51,2,73.23,25.75,52.52,198,141,50,71.57,25.38,53.81,197,62,37,32.8,19.57,86.77,90,189
-"Tattnall,District II",Tattnall,District II,1073,532,10,66.43,32.94,66.51,1615,1058,505,66.45,31.72,65.27,1592,517,288,32.92,18.34,85.42,765,1570
+"Tattnall,District Ii",Tattnall,District II,1073,532,10,66.43,32.94,66.51,1615,1058,505,66.45,31.72,65.27,1592,517,288,32.92,18.34,85.42,765,1570
 "Tattnall,East Glennville",Tattnall,East Glennville,1405,365,28,78.14,20.3,42.16,1798,1398,351,78.18,19.63,41.45,1788,738,205,42.07,11.68,69.61,811,1754
-"Tattnall,District IV",Tattnall,District IV,1221,512,12,69.97,29.34,59.37,1745,1206,487,70.07,28.29,58.22,1721,657,310,38.82,18.32,79.5,725,1692
+"Tattnall,District Iv",Tattnall,District IV,1221,512,12,69.97,29.34,59.37,1745,1206,487,70.07,28.29,58.22,1721,657,310,38.82,18.32,79.5,725,1692
 "Tattnall,District V",Tattnall,District V,620,93,6,86.23,12.93,26.7,719,612,91,85.59,12.72,27.13,715,334,63,48.19,9.09,60.9,296,693
 "Taylor,Precinct 1",Taylor,Precinct 1,119,555,7,17.47,81.49,164.02,681,130,523,19.37,77.94,158.57,671,46,385,6.85,57.37,150.52,240,671
 "Taylor,Precinct 5",Taylor,Precinct 5,1364,252,11,83.83,15.48,31.65,1627,1342,233,83.56,14.5,30.94,1606,653,163,41.12,10.26,69.14,772,1588
@@ -2494,10 +2498,10 @@ UniqueID,County,Precinct,Donald_J_Trump,Joe_R_Biden,Jo_Jorgensen,Don_Per,Joe_Per
 "Tift,Mott-Litman Gym",Tift,Mott-Litman Gym,272,1174,15,18.61,80.35,161.74,1461,287,1096,20.34,77.67,157.33,1411,147,759,10.41,53.75,143.34,506,1412
 "Tift,Tifton Lodge",Tift,Tifton Lodge,1344,701,19,65.11,33.96,68.85,2064,1349,637,66.42,31.36,64.94,2031,691,399,34.12,19.7,85.58,935,2025
 "Toombs,15361 Lyons",Toombs,15361 Lyons,1656,597,14,73.04,26.33,53.29,2267,1629,576,72.75,25.72,52.97,2239,728,344,33.15,15.66,82.51,1124,2196
-"Toombs,39 Newbranch",Toombs,39 Newbranch,946,109,7,89.07,10.26,21.19,1062,932,111,88.5,10.54,22.04,1053,419,73,40.05,6.97,66.92,554,1046
+"Toombs,39 New Branch",Toombs,39 Newbranch,946,109,7,89.07,10.26,21.19,1062,932,111,88.5,10.54,22.04,1053,419,73,40.05,6.97,66.92,554,1046
 "Toombs,43 Cedar Crossing",Toombs,43 Cedar Crossing,908,72,12,91.53,7.25,15.72,992,895,74,91.04,7.52,16.48,983,363,44,37.61,4.55,66.94,558,965
-"Toombs,513 VPD",Toombs,513 VPD,2709,1271,46,67.28,31.56,64.28,4026,2708,1206,68,30.28,62.28,3982,1189,767,30.21,19.49,89.28,1979,3935
-"Toombs,514 STIALC",Toombs,514 STIALC,1653,890,24,64.39,34.67,70.28,2567,1629,865,64.1,34.04,69.94,2541,757,532,30.17,21.2,91.03,1220,2509
+"Toombs,513 V.P.D.",Toombs,513 VPD,2709,1271,46,67.28,31.56,64.28,4026,2708,1206,68,30.28,62.28,3982,1189,767,30.21,19.49,89.28,1979,3935
+"Toombs,514 S.T.I.A.L.C",Toombs,514 STIALC,1653,890,24,64.39,34.67,70.28,2567,1629,865,64.1,34.04,69.94,2541,757,532,30.17,21.2,91.03,1220,2509
 "Towns,Young Harris",Towns,Young Harris,1923,550,10,77.44,22.15,44.71,2483,1902,505,77.63,20.61,42.98,2450,590,342,24.19,14.02,89.83,1507,2439
 "Towns,Macedonia",Towns,Macedonia,2299,477,24,82.1,17.03,34.93,2800,2256,463,81.32,16.69,35.37,2774,777,315,28.25,11.45,83.2,1658,2750
 "Towns,Hiawassee",Towns,Hiawassee,2162,523,11,80.19,19.39,39.2,2696,2133,483,80.06,18.13,38.07,2664,669,360,25.16,13.54,88.38,1629,2658
