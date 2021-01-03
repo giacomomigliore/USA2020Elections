@@ -1,12 +1,12 @@
 ﻿stateFIPS,stateName,seatid,Challenger,Candidate_encumbent,encumbentPartyCandidate,encumbentparty,result.i,result.d,result.r,election,result.name,result.winner,order
-AK,Alabama,AK2,Doug Jones,,Tommy Tuberville,R,,0.398,0.602,Yes,Tommy Tuberville,R,YesD
+AK,Alabama,AK2,Doug Jones,,Tommy Tuberville,R,,0.398,0.602,Yes,Tommy Tuberville,R,R
 AK,Alabama,AK1,,,,,,,,,Richard Shelby,R,R
 AL,Alaska,AL2,Al Gross,,Dan Sullivan,R,0.413,,0.54,Yes,Dan Sullivan,R,YesR
 AL,Alaska,AL1,,,,,,,,,Lisa Murkowski,R,R
 AR,Arizona,AR1,Martha McSally,,Martha McSally,R,,0.512,0.488,Yes,Mark Kelly,D,YesD
 AR,Arizona,AR2,,,,,,,,,Mark Kelly,D,D
 AZ,Arkansas,AZ1,Ricky Dale Harrington,,Tom Cotton,R,,-,0.665,Yes,John Boozman,R,YesR
-AZ,Arkansas,AZ2,,,,,,,,,Tom Cotton,D,R
+AZ,Arkansas,AZ2,,,,,,,,,Tom Cotton,R,R
 CA,California,CA1,,,,,,,,,Dianne Feinstein,D,D
 CA,California,CA2,,,,,,,,,Kamala Harris,D,D
 CO,Colorado,CO2,John Hickenlooper,,Cory Gardner,R,,0.535,0.442,Yes,Cory Gardner,R,YesR
@@ -85,7 +85,7 @@ TN,Tennessee,TN1,Marquita Bradshaw,Lamar Alexander,Bill Hagerty,R,,0.352,0.622,Y
 TN,Tennessee,TN2,,,,,,,,,Marsha Blackburn,R,R
 TX,Texas,TX1,MJ Hegar,,John Cornyn,R,,0.439,0.535,Yes,John Cornyn,R,YesR
 TX,Texas,TX2,,,,,,,,,Ted Cruz,R,R
-UT,Utah,UT1,,,,,,,,,Mike Lee,D,R
+UT,Utah,UT1,,,,,,,,,Mike Lee,R,R
 UT,Utah,UT2,,,,,,,,,Mitt Romney,R,R
 VA,Vermont,VA1,,,,,,,,,Patrick Leahy,D,D
 VA,Vermont,VA2,,,,,,,,,Bernie Sanders,I,I
