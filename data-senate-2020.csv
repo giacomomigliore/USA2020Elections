@@ -1,4 +1,4 @@
-﻿stateFIPS,stateName,seatid,Challenger,Candidate_instead_of_incumbent,encumbentname,encumbentparty,result.i,result.d,result.r,election,result.name,result.winner,order
+﻿stateFIPS,stateName,seatid,Challenger,Candidate_encumbent,encumbentPartyCandidate,encumbentparty,result.i,result.d,result.r,election,result.name,result.winner,order
 AK,Alabama,AK2,Tommy Tuberville,,Doug Jones,D,,0.412,0.539,Yes,Doug Jones,D,YesD
 AK,Alabama,AK1,,,,,,,,,Richard Shelby,R,R
 AL,Alaska,AL2,Al Gross,,Dan Sullivan,R,0.397,,0.601,Yes,Dan Sullivan,R,YesR
@@ -59,7 +59,7 @@ NE,New Hampshire,NE1,Corky Messner,,Jeanne Shaheen,D,,0.233,0.597,Yes,Jeanne Sha
 NE,New Hampshire,NE2,,,,,,,,,Maggie Hassan,D,D
 NH,New Jersey,NH2,Rik Mehta,,Cory Booker,D,,0.567,0.41,Yes,Cory Booker,D,YesD
 NH,New Jersey,NH1,,,,,,,,,Bob Menendez,D,D
-NJ,New Mexico,NJ1,Ben Ray Luján,Mark Ronchetti,Tom Udall,D,,0.572,0.409,Yes,Tom Udall,D,YesD
+NJ,New Mexico,NJ1,Ben Ray Luján,Tom Udall,Mark Ronchetti,D,,0.572,0.409,Yes,Ben Ray Luján,D,YesD
 NJ,New Mexico,NJ2,,,,,,,,,Martin Heinrich,D,D
 NM,New York,NM1,,,,,,,,,Chuck Schumer,D,D
 NM,New York,NM2,,,,,,,,,Kirsten Gillibrand,D,D
@@ -81,7 +81,7 @@ SC,South Carolina,SC1,Jaime Harrison,,Lindsey Graham,R,,0.442,0.545,Yes,Lindsey 
 SC,South Carolina,SC2,,,,,,,,,Tim Scott,R,R
 SD,South Dakota,SD2,Dan Ahlers,,Mike Rounds,R,,0.343,0.657,Yes,Mike Rounds,R,YesR
 SD,South Dakota,SD1,,,,,,,,,John Thune,R,R
-TN,Tennessee,TN1,Marquita Bradshaw,Bill Hagerty,Lamar Alexander,R,,0.352,0.622,Yes,Lamar Alexander,R,YesR
+TN,Tennessee,TN1,Marquita Bradshaw,Lamar Alexander,Bill Hagerty,R,,0.352,0.622,Yes,Bill Hagerty,R,YesR
 TN,Tennessee,TN2,,,,,,,,,Marsha Blackburn,R,R
 TX,Texas,TX1,MJ Hegar,,John Cornyn,R,,0.439,0.535,Yes,John Cornyn,R,YesR
 TX,Texas,TX2,,,,,,,,,Ted Cruz,R,R
@@ -97,5 +97,5 @@ WI,West Virginia,WI2,Paula Jean Swearengin,,Shelley Moore Capito,R,,0.27,0.703,Y
 WI,West Virginia,WI1,,,,,,,,,Joe Manchin,D,D
 WV,Wisconsin,WV1,,,,,,,,,Ron Johnson,R,R
 WV,Wisconsin,WV2,,,,,,,,,Tammy Baldwin,D,D
-WY,Wyoming,WY1,Merav Ben-David,Cynthia Lummis,Mike Enzi,R,,0.269,0.731,Yes,Mike Enzi,R,YesR
+WY,Wyoming,WY1,Merav Ben-David,Mike Enzi,Cynthia Lummis,R,,0.269,0.731,Yes,Cynthia Lummis,R,YesR
 WY,Wyoming,WY2,,,,,,,,,John Barrasso,R,R
